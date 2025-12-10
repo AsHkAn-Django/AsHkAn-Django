@@ -1,95 +1,57 @@
 <div align="center">
-  <h1>Hi, I’m Ashkan</h1>
+
+  <h1>Hi, I’m Ashkan </h1>
+  <h3>Python Backend Architect & Deployment Specialist</h3>
+
   <p>
-    <em>Self-taught Python &amp; Django REST Framework developer passionate about scalable, API-first web applications.</em>
+    I build high-performance, containerized web applications.
+    <br>
+    My focus is not just writing code, but shipping <strong>Production-Ready Infrastructure</strong>.
   </p>
 
   <p>
-    <a href="https://codewithashkan.com" target="_blank" rel="noopener">
-      <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=appveyor" alt="Portfolio"/>
+    <a href="https://codewithashkan.com" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2ea44f?style=for-the-badge&logo=vercel" alt="Portfolio"/>
+    </a>
+    <a href="https://linkedin.com/in/ashkan-ahrari-146080150" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
     </a>
   </p>
 </div>
 
-### About Me
-
-- I am currently working on building custom Django REST Framework projects.
-- I’m currently learning advanced Django, testing, and cloud deployment techniques.
-- I’m looking to collaborate on Django and Python-based web applications.
-- I’m looking for job opportunities as a remote backend developer.
-- I’m available for freelance work.
-- Ask me about Django, Django REST Framework, Docker, REST APIs, and deployment.
-
----
-### With over 30 custom Django projects (and counting), I specialize in:
-
--  Designing clean, secure **RESTful APIs** with DRF
--  Containerizing apps using **Docker** & deploying to **Fly.io**, **Oracle Cloud**, and **Render**
--  Integrating front-ends with **HTML, CSS, JavaScript**, and **React**
 ---
 
-### What I’m Up To
-- Working on **portfolio projects** to showcase real-world Django & DRF apps
-- Learning **advanced Django**, **DRF optimizations**, and **React** integrations
-- Open to collaborating on backend-heavy, API-first web apps
+### What I Do
+
+I specialize in the **Full Backend Lifecycle**, taking applications from local development to scalable production environments.
+
+* **Architecting:** Designing clean, RESTful APIs using **Django REST Framework**.
+* **Scaling:** Implementing Asynchronous Task Queues with **Celery & Redis**.
+* **Deploying:** Containerizing applications with **Docker** and managing Linux VPS environments (Nginx/Gunicorn).
+* **Automating:** Building CI/CD pipelines via **GitHub Actions** for error-free deployment.
 
 ---
 
-### Languages and Tools
+### The Arsenal
 
-<p align="center">
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="Django" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40"/>
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  <!-- Database & CI/CD -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-</p>
+<div align="center">
 
-<p align="center">
-Python
-- Django
-- Django REST Framework
-- HTML5
-- CSS3
-- Bootstrap
-- PostgreSQL
-- SQLite
-- Git and GitHub
-- Linux
-- VS Code
-- Docker
-- Gunicorn and Nginx
-- Heroku and Render
-</p>
+| **Backend** | **Infrastructure** | **Database & Tools** |
+| :--- | :--- | :--- |
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) |
+| ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) |
+| ![DRF](https://img.shields.io/badge/DRF-A30000?style=flat&logo=django&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) | ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white) |
+| ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+
+</div>
 
 ---
 
-### You can find me on
+### GitHub Stats
 
-<p align="center">
-  <a href="https://linkedin.com/in/ashkan-ahrari" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Ashkan" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-  <a href="https://medium.com/@ashkan.ahrari" target="_blank" rel="noopener">
-    <img src="https://img.shields.io/badge/Medium-Read-white?style=for-the-badge&logo=medium" alt="Medium"/>
-  </a>
-</p>
-
-
-
-
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AsHkAn-Django&show_icons=true&theme=dracula&hide_border=true" alt="Ashkan's Stats" />
+</div>
