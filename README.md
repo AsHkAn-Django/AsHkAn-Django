@@ -53,9 +53,7 @@ I specialize in the **Full Backend Lifecycle**, taking applications from local d
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashkan-django&show_icons=true&theme=dracula&hide_border=true" alt="Ashkan's Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashkan-django&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+  <img src="https://img.shields.io/github/followers/AsHkAn-Django?label=Followers&style=for-the-badge" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/AsHkAn-Django?style=for-the-badge" alt="Stars" />
+  <img src="https://img.shields.io/github/repo-size/AsHkAn-Django?style=for-the-badge" alt="Repo size" />
 </p>
