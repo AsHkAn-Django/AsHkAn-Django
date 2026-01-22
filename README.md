@@ -1,12 +1,11 @@
 <div align="center">
 
   <h1>Hi, I’m Ashkan </h1>
-  <h3>Python Backend Architect & Deployment Specialist</h3>
+  <h3>Python Backend Developer | Web Scraping & AI Automation Specialist</h3>
 
   <p>
-    I build high-performance, containerized web applications.
-    <br>
-    My focus is not just writing code, but shipping <strong>Production-Ready Infrastructure</strong>.
+    I build <strong>production-ready intelligent systems</strong>. 
+    From architecting complex scrapers to deploying AI-driven automation on scalable infrastructure.
   </p>
 
   <p>
@@ -16,9 +15,6 @@
     <a href="https://linkedin.com/in/ashkan-ahrari-146080150" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
     </a>
-    <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
-    </a>
   </p>
 </div>
 
@@ -26,12 +22,12 @@
 
 ### What I Do
 
-I specialize in the **Full Backend Lifecycle**, taking applications from local development to scalable production environments.
+I bridge the gap between **Complex Data Extraction** and **Automated Intelligence**. I don't just write scripts; I ship robust, containerized backend ecosystems.
 
-* **Architecting:** Designing clean, RESTful APIs using **Django REST Framework**.
-* **Scaling:** Implementing Asynchronous Task Queues with **Celery & Redis**.
-* **Deploying:** Containerizing applications with **Docker** and managing Linux VPS environments (Nginx/Gunicorn).
-* **Automating:** Building CI/CD pipelines via **GitHub Actions** for error-free deployment.
+* **AI & Trading:** Developing **Trading Bots** and **Signal Systems** integrated with **OpenAI** for intelligent decision-making.
+* **Pro Scraping:** Bypassing restrictions with **Selenium**, **Playwright**, and **BeautifulSoup**; processing data with **Pandas**.
+* **Backend Architecture:** Building high-performance APIs with **Django (DRF)** and **FastAPI**.
+* **Expert Deployment:** Full-cycle **Dockerization**, managing **Nginx/Gunicorn** stacks, and automating with CI/CD.
 
 ---
 
@@ -39,12 +35,13 @@ I specialize in the **Full Backend Lifecycle**, taking applications from local d
 
 <div align="center">
 
-| **Backend** | **Infrastructure** | **Database & Tools** |
+| **AI & Automation** | **Backend & Scraping** | **Infrastructure (Pro)** |
 | :--- | :--- | :--- |
-| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) |
-| ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) |
-| ![DRF](https://img.shields.io/badge/DRF-A30000?style=flat&logo=django&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) | ![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white) |
-| ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
+| ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
+| ![Trading Bots](https://img.shields.io/badge/Trading_Bots-FFD700?style=flat&logo=binance&logoColor=black) | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) |
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white) | ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat&logo=gunicorn&logoColor=white) |
+| ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
+| ![BS4](https://img.shields.io/badge/BeautifulSoup-gray?style=flat) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/CI/CD-2088FF?style=flat&logo=github-actions&logoColor=white) |
 
 </div>
 
