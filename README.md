@@ -1,62 +1,68 @@
 <div align="center">
-
-  <h1>Hi, I’m Ashkan </h1>
-  <h3>Python Backend Developer | Web Scraping & AI Automation Specialist</h3>
-
-  <p>
-    I build <strong>production-ready intelligent systems</strong>. 
-    From architecting complex scrapers to deploying AI-driven automation on scalable infrastructure.
-  </p>
-
+  <h1>Ashkan Ahrari</h1>
+  <h3>Python Backend Developer — Automation, Scraping & Trading Systems</h3>
+  <p>I build backend systems that extract data, automate workflows, and run 24/7 on production servers.</p>
   <p>
     <a href="https://codewithashkan.com" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2ea44f?style=for-the-badge&logo=vercel" alt="Portfolio"/>
+      <img src="https://img.shields.io/badge/Portfolio-codewithashkan.com-2ea44f?style=for-the-badge" alt="Portfolio"/>
     </a>
     <a href="https://linkedin.com/in/ashkan-ahrari-146080150" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
     </a>
+    <a href="https://www.upwork.com/freelancers/~yourprofile" target="_blank">
+      <img src="https://img.shields.io/badge/Upwork-Hire%20Me-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
+    </a>
   </p>
 </div>
 
 ---
 
-### What I Do
+### What I Build
 
-I bridge the gap between **Complex Data Extraction** and **Automated Intelligence**. I don't just write scripts; I ship robust, containerized backend ecosystems.
-
-* **AI & Trading:** Developing **Trading Bots** and **Signal Systems** integrated with **OpenAI** for intelligent decision-making.
-* **Pro Scraping:** Bypassing restrictions with **Selenium**, **Playwright**, and **BeautifulSoup**; processing data with **Pandas**.
-* **Backend Architecture:** Building high-performance APIs with **Django (DRF)** and **FastAPI**.
-* **Expert Deployment:** Full-cycle **Dockerization**, managing **Nginx/Gunicorn** stacks, and automating with CI/CD.
+- **Trading Bots & Signal Systems** — OHLC data processing, RSI/MA indicators, paper trading with ccxt
+- **Web Scrapers** — Playwright & Selenium for JS-heavy sites, BeautifulSoup for static pages
+- **Backend APIs** — Django REST Framework & FastAPI, deployed with Docker + Nginx + Gunicorn
+- **Automation Pipelines** — Celery task queues, scheduled jobs, email digests
 
 ---
 
-### The Arsenal
+### Tech Stack
 
-<div align="center">
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white)
 
-| **AI & Automation** | **Backend & Scraping** | **Infrastructure (Pro)** |
-| :--- | :--- | :--- |
-| ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-| ![Trading Bots](https://img.shields.io/badge/Trading_Bots-FFD700?style=flat&logo=binance&logoColor=black) | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) | ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white) |
-| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white) | ![Gunicorn](https://img.shields.io/badge/Gunicorn-499848?style=flat&logo=gunicorn&logoColor=white) |
-| ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) | ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) |
-| ![BS4](https://img.shields.io/badge/BeautifulSoup-gray?style=flat) | ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/CI/CD-2088FF?style=flat&logo=github-actions&logoColor=white) |
+**Scraping & Automation**  
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
-</div>
+**Infrastructure**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ---
 
-### GitHub Stats
+### Featured Projects
 
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [TradingView Signal Scraper](https://github.com/yourrepo) | Monitors strategy discussions, scores posts, sends ranked email digests | Playwright, Pandas, Celery |
+| [SaaS Boilerplate](https://github.com/yourrepo) | Production-ready Django starter with auth, payments, Docker | Django, Stripe, Docker |
+| [Invoice Generator](https://github.com/yourrepo) | Client project for automated invoice creation | Django, PDF generation |
 
+---
+
+### Currently Learning
+
+- OpenAI API integration for trading signal explanations  
+- Advanced backtesting with ccxt  
+
+---
 
 <p align="center">
-
-  <img src="https://img.shields.io/github/followers/AsHkAn-Django?label=Followers&style=for-the-badge" alt="Followers" />
-
-  <img src="https://img.shields.io/github/stars/AsHkAn-Django?style=for-the-badge" alt="Stars" />
-
-  <img src="https://img.shields.io/github/repo-size/AsHkAn-Django?style=for-the-badge" alt="Repo size" />
-
+  <i>Open to freelance projects — especially trading bots, automation, and scraping systems.</i>
 </p>
