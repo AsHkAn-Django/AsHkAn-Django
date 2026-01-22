@@ -9,7 +9,7 @@
     <a href="https://linkedin.com/in/ashkan-ahrari-146080150" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
     </a>
-    <a href="https://www.upwork.com/freelancers/~yourprofile" target="_blank">
+    <a href="https://www.upwork.com/freelancers/djangopythonbotai" target="_blank">
       <img src="https://img.shields.io/badge/Upwork-Hire%20Me-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
     </a>
   </p>
