@@ -49,8 +49,14 @@ I bridge the gap between **Complex Data Extraction** and **Automated Intelligenc
 
 ### GitHub Stats
 
+
+
 <p align="center">
+
   <img src="https://img.shields.io/github/followers/AsHkAn-Django?label=Followers&style=for-the-badge" alt="Followers" />
+
   <img src="https://img.shields.io/github/stars/AsHkAn-Django?style=for-the-badge" alt="Stars" />
+
   <img src="https://img.shields.io/github/repo-size/AsHkAn-Django?style=for-the-badge" alt="Repo size" />
+
 </p>
