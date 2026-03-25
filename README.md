@@ -6,9 +6,6 @@
     <a href="https://codewithashkan.com" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-codewithashkan.com-2ea44f?style=for-the-badge" alt="Portfolio"/>
     </a>
-    <a href="https://linkedin.com/in/ashkan-ahrari-146080150" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-    </a>
     <a href="https://www.upwork.com/freelancers/djangopythonbotai" target="_blank">
       <img src="https://img.shields.io/badge/Upwork-Hire%20Me-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
     </a>
