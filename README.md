@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Ashkan Ahrari</h1>
-  <h3>Python Backend Developer — Automation, Scraping & Trading Systems</h3>
+  <h3>Python Backend Developer | AI Integration & Automation Specialist</h3>
   <p>I build backend systems that extract data, automate workflows, and run 24/7 on production servers.</p>
   <p>
     <a href="https://codewithashkan.com" target="_blank">
