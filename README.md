@@ -6,7 +6,7 @@
     <a href="https://codewithashkan.com" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-codewithashkan.com-2ea44f?style=for-the-badge" alt="Portfolio"/>
     </a>
-    <a href="https://www.upwork.com/freelancers/djangopythonbotai" target="_blank">
+    <a href="https://www.upwork.com/freelancers/ashkanahrari?mp_source=share" target="_blank">
       <img src="https://img.shields.io/badge/Upwork-Hire%20Me-6fda44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
     </a>
   </p>
